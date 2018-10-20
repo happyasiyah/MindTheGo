@@ -1,0 +1,2 @@
+# MindTheGo
+Awesome Go Projects
